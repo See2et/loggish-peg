@@ -1,16 +1,13 @@
 {
+  "phrase": "疑問文",
   "head": "su",
   "tail": {
-    "head": {
-      "head": "molo",
-      "tail": []
-    },
+    "phrase": "疑問文根幹",
+    "head": "molo",
     "tail": {
+      "phrase": "疑問時制動詞",
       "head": "li",
-      "tail": {
-        "head": "molo",
-        "tail": []
-      }
+      "tail": "molo"
     }
   }
 }
