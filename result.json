@@ -1,0 +1,16 @@
+{
+  "head": "su",
+  "tail": {
+    "head": {
+      "head": "molo",
+      "tail": []
+    },
+    "tail": {
+      "head": "li",
+      "tail": {
+        "head": "molo",
+        "tail": []
+      }
+    }
+  }
+}
